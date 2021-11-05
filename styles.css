@@ -1,0 +1,70 @@
+#h1Heading {
+    text-align: center;
+
+}
+
+body{
+
+    width: 90%;
+    max-height: 762px;
+    text-align: center;
+    background-color: cornflowerblue;
+
+    
+
+}
+.border{
+
+    border: 2px solid blue;
+    background-color: chartreuse;
+}
+
+tr{
+    border-color:4px solid black;
+}
+
+
+table{
+    border-radius: 10px;
+    display: inline-block;
+    border: 4px solid;
+
+}
+
+ th {
+    border: 2px solid rgb(243, 13, 13);
+    padding-left: 10px;
+    margin: 10px;
+    border-radius: 4px;
+  }
+td {
+    border: 2px solid green;
+    border-radius: 4px;
+    padding-left: 10px;
+    margin: 10px;
+}
+#container{
+
+    width: 90%;
+    max-height: 762px;
+}
+
+p{
+    margin: 30px;
+}
+
+li{
+    margin: 10px;
+}
+
+.fontSize{
+
+    font-size: large;
+    
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.hiddenContent{
+
+    visibility: hidden;
+}
